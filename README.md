@@ -15,6 +15,8 @@ Here are some ways you can add onto this basic code:
 - Reset button
 - DIFFICULT: thread in a timer, have user try to solve the puzzle in a certain amount of time
 
+If you find this interesting and would like to get started, feel free to star this repo and fork it!
+
 # :milky_way: Use this code to really make this project your own! :milky_way:
 Hope you have fun,
 
