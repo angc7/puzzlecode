@@ -1,6 +1,6 @@
 # :fireworks: Beginner graphics project: make a puzzle game! :fireworks:
 
-Here is some starting code for a puzzle game. There will be a start screen (like a lobby) to welcome the player. Once the player clicks the start button, it brings them into the game. Users will be able to click two pieces and swap them, and there will be an algorithm that constantly checks whether or not the puzzle has been solved.
+Here is some starting code for a simple puzzle game. There will be a start screen (like a lobby) to welcome the player. Once the player clicks the start button, it brings them into the game. Users will be able to click two pieces and swap them, and there will be an algorithm that constantly checks whether or not the puzzle has been solved.
 
 Here is the source code. It has all the basics that you need to get started. Please go over the documentation, especially the graphics code, so that you understand what is going on. 
 
